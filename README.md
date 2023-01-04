@@ -11,7 +11,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vannyle&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-
-
-## 📈 Activity Graph
-[![Vannyle's github activity graph](https://activity-graph.herokuapp.com/graph?username=vannyle&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
