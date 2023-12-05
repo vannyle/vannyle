@@ -1,4 +1,5 @@
-# Vanny  
+# About me
+Hi there! I'm Van, a front-end developer who loves Javascript. I'm passionate about creating interactive and high-quality user experiences on the web. 
 
 
 ## ⚡ Stats
